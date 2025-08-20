@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/CharanVempala9/30daysChallenge/tree/master/2383-add-two-integers) |
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
