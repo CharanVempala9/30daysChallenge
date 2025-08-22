@@ -1,21 +1,18 @@
 class Solution {
     public boolean isPalindrome(int x) {
+        int val=x;
         if(x<0){
             return false;
         }
-        List<Integer>ls=new ArrayList<>();
+        int mul=0;
         while(x>0){
             int rem=x%10;
-            ls.add(rem);
+            mul = mul*10+rem;
             x=x/10;
         }
-        int idx=1;
-        for(int i=0; i<ls.size()/2; i++){
-            if(ls.get(i)!=ls.get(ls.size()-idx)){
-                return false;
-            }
-            idx++;
+        if(mul==val){
+            return true;
         }
-        return true;
+        return false;
     }
 }
