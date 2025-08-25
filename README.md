@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/CharanVempala9/30daysChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/CharanVempala9/30daysChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0268-missing-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/CharanVempala9/30daysChallenge/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/CharanVempala9/30daysChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/CharanVempala9/30daysChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0268-missing-number) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/CharanVempala9/30daysChallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
