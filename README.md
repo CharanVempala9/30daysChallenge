@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/CharanVempala9/30daysChallenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/CharanVempala9/30daysChallenge/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/CharanVempala9/30daysChallenge/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/CharanVempala9/30daysChallenge/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/CharanVempala9/30daysChallenge/tree/master/0443-string-compression) |
 ## Queue
 |  |
 | ------- |
