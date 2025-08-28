@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/CharanVempala9/30daysChallenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/0496-next-greater-element-i) |
+| [0860-design-circular-queue](https://github.com/CharanVempala9/30daysChallenge/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/2058-concatenation-of-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/CharanVempala9/30daysChallenge/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/CharanVempala9/30daysChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/CharanVempala9/30daysChallenge/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/CharanVempala9/30daysChallenge/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
@@ -122,10 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/CharanVempala9/30daysChallenge/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/CharanVempala9/30daysChallenge/tree/master/0206-reverse-linked-list) |
+| [0860-design-circular-queue](https://github.com/CharanVempala9/30daysChallenge/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/CharanVempala9/30daysChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/CharanVempala9/30daysChallenge/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/CharanVempala9/30daysChallenge/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
