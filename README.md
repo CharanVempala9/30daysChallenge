@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/CharanVempala9/30daysChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/CharanVempala9/30daysChallenge/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/CharanVempala9/30daysChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/0496-next-greater-element-i) |
 | [0860-design-circular-queue](https://github.com/CharanVempala9/30daysChallenge/tree/master/0860-design-circular-queue) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/CharanVempala9/30daysChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/CharanVempala9/30daysChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0860-design-circular-queue](https://github.com/CharanVempala9/30daysChallenge/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/CharanVempala9/30daysChallenge/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/CharanVempala9/30daysChallenge/tree/master/0187-repeated-dna-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/CharanVempala9/30daysChallenge/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
