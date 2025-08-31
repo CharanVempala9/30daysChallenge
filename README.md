@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/CharanVempala9/30daysChallenge/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/CharanVempala9/30daysChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/CharanVempala9/30daysChallenge/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/1603-running-sum-of-1d-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/CharanVempala9/30daysChallenge/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
