@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/CharanVempala9/30daysChallenge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/CharanVempala9/30daysChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/CharanVempala9/30daysChallenge/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/CharanVempala9/30daysChallenge/tree/master/0724-find-pivot-index) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/CharanVempala9/30daysChallenge/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/CharanVempala9/30daysChallenge/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/CharanVempala9/30daysChallenge/tree/master/0441-arranging-coins) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CharanVempala9/30daysChallenge/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/CharanVempala9/30daysChallenge/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0680-valid-palindrome-ii) |
 ## Stack
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/CharanVempala9/30daysChallenge/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/CharanVempala9/30daysChallenge/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/1603-running-sum-of-1d-array) |
 ## Interactive
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/CharanVempala9/30daysChallenge/tree/master/0561-array-partition) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
