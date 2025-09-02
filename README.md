@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/CharanVempala9/30daysChallenge/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/CharanVempala9/30daysChallenge/tree/master/0441-arranging-coins) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/CharanVempala9/30daysChallenge/tree/master/2383-add-two-integers) |
 ## Array
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/CharanVempala9/30daysChallenge/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/CharanVempala9/30daysChallenge/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/CharanVempala9/30daysChallenge/tree/master/0441-arranging-coins) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
