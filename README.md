@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/CharanVempala9/30daysChallenge/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0680-valid-palindrome-ii) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1899-count-items-matching-a-rule](https://github.com/CharanVempala9/30daysChallenge/tree/master/1899-count-items-matching-a-rule) |
 ## Queue
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/CharanVempala9/30daysChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/0496-next-greater-element-i) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
