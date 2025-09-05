@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CharanVempala9/30daysChallenge/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/CharanVempala9/30daysChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/CharanVempala9/30daysChallenge/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Union Find
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CharanVempala9/30daysChallenge/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/CharanVempala9/30daysChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/CharanVempala9/30daysChallenge/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/CharanVempala9/30daysChallenge/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/CharanVempala9/30daysChallenge/tree/master/0860-design-circular-queue) |
