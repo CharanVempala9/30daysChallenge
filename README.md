@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/CharanVempala9/30daysChallenge/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/CharanVempala9/30daysChallenge/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0680-valid-palindrome-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/CharanVempala9/30daysChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/CharanVempala9/30daysChallenge/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/CharanVempala9/30daysChallenge/tree/master/0561-array-partition) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/CharanVempala9/30daysChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/CharanVempala9/30daysChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0860-design-circular-queue](https://github.com/CharanVempala9/30daysChallenge/tree/master/0860-design-circular-queue) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/CharanVempala9/30daysChallenge/tree/master/0969-number-of-recent-calls) |
 ## Sliding Window
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Tree
