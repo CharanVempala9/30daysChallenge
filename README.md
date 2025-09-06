@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/CharanVempala9/30daysChallenge/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/CharanVempala9/30daysChallenge/tree/master/0441-arranging-coins) |
+| [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/CharanVempala9/30daysChallenge/tree/master/2383-add-two-integers) |
 ## Array
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/CharanVempala9/30daysChallenge/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/CharanVempala9/30daysChallenge/tree/master/0890-lemonade-change) |
+| [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CharanVempala9/30daysChallenge/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/1603-running-sum-of-1d-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/CharanVempala9/30daysChallenge/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/CharanVempala9/30daysChallenge/tree/master/0561-array-partition) |
+| [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -237,8 +240,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Tree
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
