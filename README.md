@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/CharanVempala9/30daysChallenge/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/CharanVempala9/30daysChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/CharanVempala9/30daysChallenge/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/CharanVempala9/30daysChallenge/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/CharanVempala9/30daysChallenge/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/CharanVempala9/30daysChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0838-design-linked-list](https://github.com/CharanVempala9/30daysChallenge/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/CharanVempala9/30daysChallenge/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/CharanVempala9/30daysChallenge/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
