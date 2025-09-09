@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/CharanVempala9/30daysChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0090-subsets-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/CharanVempala9/30daysChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0179-largest-number) |
@@ -276,5 +278,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
