@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/CharanVempala9/30daysChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/CharanVempala9/30daysChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/CharanVempala9/30daysChallenge/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0136-single-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/CharanVempala9/30daysChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0268-missing-number) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
