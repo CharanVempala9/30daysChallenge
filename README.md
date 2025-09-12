@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/CharanVempala9/30daysChallenge/tree/master/2383-add-two-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1899-count-items-matching-a-rule](https://github.com/CharanVempala9/30daysChallenge/tree/master/1899-count-items-matching-a-rule) |
+| [3462-vowels-game-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -309,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/CharanVempala9/30daysChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CharanVempala9/30daysChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CharanVempala9/30daysChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
