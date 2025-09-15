@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/CharanVempala9/30daysChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/CharanVempala9/30daysChallenge/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/CharanVempala9/30daysChallenge/tree/master/0801-is-graph-bipartite) |
 ## Greedy
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/CharanVempala9/30daysChallenge/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/CharanVempala9/30daysChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/CharanVempala9/30daysChallenge/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/CharanVempala9/30daysChallenge/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/CharanVempala9/30daysChallenge/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/CharanVempala9/30daysChallenge/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/CharanVempala9/30daysChallenge/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/CharanVempala9/30daysChallenge/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/CharanVempala9/30daysChallenge/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/CharanVempala9/30daysChallenge/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/CharanVempala9/30daysChallenge/tree/master/0871-keys-and-rooms) |
 ## Brainteaser
 |  |
@@ -358,5 +361,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/CharanVempala9/30daysChallenge/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/CharanVempala9/30daysChallenge/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
