@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/CharanVempala9/30daysChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/CharanVempala9/30daysChallenge/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/CharanVempala9/30daysChallenge/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/CharanVempala9/30daysChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0268-missing-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/CharanVempala9/30daysChallenge/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/CharanVempala9/30daysChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/CharanVempala9/30daysChallenge/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/CharanVempala9/30daysChallenge/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/CharanVempala9/30daysChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/CharanVempala9/30daysChallenge/tree/master/0217-contains-duplicate) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/CharanVempala9/30daysChallenge/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/CharanVempala9/30daysChallenge/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/CharanVempala9/30daysChallenge/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/CharanVempala9/30daysChallenge/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/CharanVempala9/30daysChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/CharanVempala9/30daysChallenge/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0410-split-array-largest-sum) |
 ## Binary Indexed Tree
 |  |
@@ -363,4 +367,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/CharanVempala9/30daysChallenge/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/CharanVempala9/30daysChallenge/tree/master/0871-keys-and-rooms) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/CharanVempala9/30daysChallenge/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/CharanVempala9/30daysChallenge/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
