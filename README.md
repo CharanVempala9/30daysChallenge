@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/CharanVempala9/30daysChallenge/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/CharanVempala9/30daysChallenge/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/CharanVempala9/30daysChallenge/tree/master/0561-array-partition) |
 | [0695-max-area-of-island](https://github.com/CharanVempala9/30daysChallenge/tree/master/0695-max-area-of-island) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/CharanVempala9/30daysChallenge/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/CharanVempala9/30daysChallenge/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0494-target-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
