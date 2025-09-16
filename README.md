@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/CharanVempala9/30daysChallenge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/CharanVempala9/30daysChallenge/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/CharanVempala9/30daysChallenge/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/CharanVempala9/30daysChallenge/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0410-split-array-largest-sum) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/CharanVempala9/30daysChallenge/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/CharanVempala9/30daysChallenge/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0410-split-array-largest-sum) |
 ## Binary Indexed Tree
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/CharanVempala9/30daysChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CharanVempala9/30daysChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CharanVempala9/30daysChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/CharanVempala9/30daysChallenge/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/CharanVempala9/30daysChallenge/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/CharanVempala9/30daysChallenge/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/CharanVempala9/30daysChallenge/tree/master/0695-max-area-of-island) |
