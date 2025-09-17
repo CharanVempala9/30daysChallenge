@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/CharanVempala9/30daysChallenge/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/CharanVempala9/30daysChallenge/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/CharanVempala9/30daysChallenge/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/CharanVempala9/30daysChallenge/tree/master/0367-valid-perfect-square) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/CharanVempala9/30daysChallenge/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/CharanVempala9/30daysChallenge/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/CharanVempala9/30daysChallenge/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0410-split-array-largest-sum) |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/CharanVempala9/30daysChallenge/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/CharanVempala9/30daysChallenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
