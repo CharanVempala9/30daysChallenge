@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0047-permutations-ii) |
+| [0063-unique-paths-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/CharanVempala9/30daysChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0088-merge-sorted-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/CharanVempala9/30daysChallenge/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/CharanVempala9/30daysChallenge/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/CharanVempala9/30daysChallenge/tree/master/0322-coin-change) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CharanVempala9/30daysChallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/CharanVempala9/30daysChallenge/tree/master/0463-island-perimeter) |
