@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CharanVempala9/30daysChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/CharanVempala9/30daysChallenge/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/CharanVempala9/30daysChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/CharanVempala9/30daysChallenge/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0136-single-number) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/CharanVempala9/30daysChallenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/CharanVempala9/30daysChallenge/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/CharanVempala9/30daysChallenge/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/CharanVempala9/30daysChallenge/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CharanVempala9/30daysChallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
