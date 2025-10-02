@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/CharanVempala9/30daysChallenge/tree/master/2383-add-two-integers) |
+| [3336-water-bottles-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/2058-concatenation-of-array) |
+| [3336-water-bottles-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/3336-water-bottles-ii) |
 ## Two Pointers
 |  |
 | ------- |
