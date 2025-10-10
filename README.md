@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/2058-concatenation-of-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/CharanVempala9/30daysChallenge/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CharanVempala9/30daysChallenge/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Simulation
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/CharanVempala9/30daysChallenge/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/CharanVempala9/30daysChallenge/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/1603-running-sum-of-1d-array) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CharanVempala9/30daysChallenge/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Interactive
 |  |
 | ------- |
