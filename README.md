@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/2058-concatenation-of-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/CharanVempala9/30daysChallenge/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CharanVempala9/30daysChallenge/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/CharanVempala9/30daysChallenge/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/CharanVempala9/30daysChallenge/tree/master/0561-array-partition) |
 | [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/CharanVempala9/30daysChallenge/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## String
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/CharanVempala9/30daysChallenge/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/CharanVempala9/30daysChallenge/tree/master/0890-lemonade-change) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/CharanVempala9/30daysChallenge/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Stack
 |  |
 | ------- |
