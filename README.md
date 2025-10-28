@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/2058-concatenation-of-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/CharanVempala9/30daysChallenge/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CharanVempala9/30daysChallenge/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/CharanVempala9/30daysChallenge/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Simulation
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/2058-concatenation-of-array) |
 | [3336-water-bottles-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/3336-water-bottles-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/CharanVempala9/30daysChallenge/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/1603-running-sum-of-1d-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CharanVempala9/30daysChallenge/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Interactive
 |  |
