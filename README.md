@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/CharanVempala9/30daysChallenge/tree/master/1899-count-items-matching-a-rule) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/2058-concatenation-of-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/CharanVempala9/30daysChallenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/CharanVempala9/30daysChallenge/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CharanVempala9/30daysChallenge/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/2058-concatenation-of-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/CharanVempala9/30daysChallenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/CharanVempala9/30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CharanVempala9/30daysChallenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/CharanVempala9/30daysChallenge/tree/master/1014-k-closest-points-to-origin) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/CharanVempala9/30daysChallenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/3226-minimum-number-game) |
 ## Binary Tree
 |  |
