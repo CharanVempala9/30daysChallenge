@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/CharanVempala9/30daysChallenge/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/0496-next-greater-element-i) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/CharanVempala9/30daysChallenge/tree/master/0890-lemonade-change) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/CharanVempala9/30daysChallenge/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -208,10 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/CharanVempala9/30daysChallenge/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/0496-next-greater-element-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
 | ------- |
