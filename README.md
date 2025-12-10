@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/CharanVempala9/30daysChallenge/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/CharanVempala9/30daysChallenge/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/CharanVempala9/30daysChallenge/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/CharanVempala9/30daysChallenge/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/CharanVempala9/30daysChallenge/tree/master/0441-arranging-coins) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/CharanVempala9/30daysChallenge/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/2058-concatenation-of-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/CharanVempala9/30daysChallenge/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -447,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CharanVempala9/30daysChallenge/tree/master/0803-cheapest-flights-within-k-stops) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/CharanVempala9/30daysChallenge/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
