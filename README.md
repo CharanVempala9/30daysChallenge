@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/CharanVempala9/30daysChallenge/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CharanVempala9/30daysChallenge/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3546-equal-sum-grid-partition-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/CharanVempala9/30daysChallenge/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/CharanVempala9/30daysChallenge/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/CharanVempala9/30daysChallenge/tree/master/1603-running-sum-of-1d-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CharanVempala9/30daysChallenge/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3546-equal-sum-grid-partition-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Interactive
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CharanVempala9/30daysChallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/CharanVempala9/30daysChallenge/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/CharanVempala9/30daysChallenge/tree/master/0695-max-area-of-island) |
+| [3546-equal-sum-grid-partition-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 ## Graph
 |  |
 | ------- |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/CharanVempala9/30daysChallenge/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
