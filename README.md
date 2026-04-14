@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3889-mirror-frequency-distance](https://github.com/CharanVempala9/30daysChallenge/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/CharanVempala9/30daysChallenge/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/CharanVempala9/30daysChallenge/tree/master/3226-minimum-number-game) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/CharanVempala9/30daysChallenge/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/CharanVempala9/30daysChallenge/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## String
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [3889-mirror-frequency-distance](https://github.com/CharanVempala9/30daysChallenge/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/CharanVempala9/30daysChallenge/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Binary Search
 |  |
 | ------- |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/3546-equal-sum-grid-partition-i) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/CharanVempala9/30daysChallenge/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Database
 |  |
 | ------- |
