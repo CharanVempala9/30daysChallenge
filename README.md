@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/CharanVempala9/30daysChallenge/tree/master/0496-next-greater-element-i) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CharanVempala9/30daysChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/CharanVempala9/30daysChallenge/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3889-mirror-frequency-distance](https://github.com/CharanVempala9/30daysChallenge/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/CharanVempala9/30daysChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1899-count-items-matching-a-rule](https://github.com/CharanVempala9/30daysChallenge/tree/master/1899-count-items-matching-a-rule) |
 | [3462-vowels-game-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/3462-vowels-game-in-a-string) |
+| [3889-mirror-frequency-distance](https://github.com/CharanVempala9/30daysChallenge/tree/master/3889-mirror-frequency-distance) |
 ## Queue
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/CharanVempala9/30daysChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [3889-mirror-frequency-distance](https://github.com/CharanVempala9/30daysChallenge/tree/master/3889-mirror-frequency-distance) |
 ## Binary Search
 |  |
 | ------- |
