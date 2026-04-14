@@ -16,7 +16,7 @@ class Solution {
                 else{
                     pr= (char)('z' - (ch - 'a'));
                 }
-                System.out.println(pr);
+                //System.out.println(pr);
                 if(hm.containsKey(pr)){
                     //System.out.println(hm.get(ch)+" "+hm.get(pr));
                     ans+=Math.abs(hm.get(ch)-hm.get(pr));
